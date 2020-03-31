@@ -13,3 +13,5 @@ Eilenberg-Moore category is monoidal with the forgetful functor being strong
 monoidal. We can then use the fully faithful embedding of Kleisli categories
 into Eilenberg-Moore categories to interpret our diagrams in the promonoidal
 context. This is work in progress.
+
+/If you see something that should be changed, feel free to send me an email./
