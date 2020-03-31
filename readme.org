@@ -1,0 +1,15 @@
+#+TITLE: Kleisli Diagrams for Optics
+
+There are at least three different formal graphical representations of optics on
+the literature (Hedges, Riley, Boisseau). They do not seem to provide a
+clear way of composing optics of different kinds in a faithful way: for
+instance, composing optics as setters is not necessarily faithful. We present a
+graphical formalism of optics that eases this task by observing that categories
+of optics are full subcategories of a Kleisli category for a monad.
+
+We can link this to the elegant diagrams proposed by Boisseau, which are able to
+describe the laws of optics. Because the monad is opmonoidal, its
+Eilenberg-Moore category is monoidal with the forgetful functor being strong
+monoidal. We can then use the fully faithful embedding of Kleisli categories
+into Eilenberg-Moore categories to interpret our diagrams in the promonoidal
+context. This is work in progress.
