@@ -14,4 +14,4 @@ monoidal. We can then use the fully faithful embedding of Kleisli categories
 into Eilenberg-Moore categories to interpret our diagrams in the promonoidal
 context. This is work in progress.
 
-/If you see something that should be changed, feel free to send me an email./
+/If you see something that looks wrong or that should be changed, please feel free to send me an email or discuss it on the issues./
